@@ -1051,11 +1051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.iOS\\ProyectoFinal.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.iOS\\ProyectoFinal.iOS.csproj",
       "projectName": "ProyectoFinal.iOS",
-      "projectPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.iOS\\ProyectoFinal.iOS.csproj",
+      "projectPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.iOS\\ProyectoFinal.iOS.csproj",
       "packagesPath": "C:\\Users\\Jerem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.iOS\\obj\\",
+      "outputPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
-              "projectPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj"
+            "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
+              "projectPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj"
             }
           }
         }

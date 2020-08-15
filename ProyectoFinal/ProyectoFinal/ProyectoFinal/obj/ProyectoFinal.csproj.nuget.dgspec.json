@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {}
+    "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
+    "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectUniqueName": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
         "projectName": "ProyectoFinal",
-        "projectPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
+        "projectPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj",
         "packagesPath": "C:\\Users\\Jerem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\obj\\",
+        "outputPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

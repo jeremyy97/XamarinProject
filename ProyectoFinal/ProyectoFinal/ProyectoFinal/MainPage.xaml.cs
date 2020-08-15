@@ -22,7 +22,7 @@ namespace ProyectoFinal
 
         async private void OpenLogin()
         {
-            await Navigation.PushModalAsync(new EditarVehiculo());
+            await Navigation.PushModalAsync(new Login());
         }
     }
 }

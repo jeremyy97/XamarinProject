@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Android\\ProyectoFinal.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Android\\ProyectoFinal.Android.csproj",
       "projectName": "ProyectoFinal.Android",
-      "projectPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Android\\ProyectoFinal.Android.csproj",
+      "projectPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Android\\ProyectoFinal.Android.csproj",
       "packagesPath": "C:\\Users\\Jerem\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Android\\obj\\",
+      "outputPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
-              "projectPath": "C:\\Users\\Jerem\\source\\repos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj"
+            "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj": {
+              "projectPath": "C:\\Users\\Jerem\\source\\repos\\XamarinProject\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.csproj"
             }
           }
         }
